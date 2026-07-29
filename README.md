@@ -1,4 +1,4 @@
-# Informe 1: Mantenimiento e Infraestructura de Hardware 💻🔧
+# Informe 1: Mantenimiento e Infraestructura de Hardware 
 
 **Curso:** Prácticas Iniciales - Sección C
 **Estudiante:** Zabdi Jefte Rivas Martínez (Carnet: 202300349)

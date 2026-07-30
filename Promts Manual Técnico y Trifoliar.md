@@ -1,6 +1,6 @@
 # Trifoliar
 
-**Genera el trifoliar, especial enfasis en (ESD), es complemento de un video tutorial, de MANTENIMIENTO E INFRAESTRUCTURA DE HARDWARE, se directo y claro para que personas no muy adentradas al hardware de las computadoras pueda comprenderlo, en diseño hazlo minimalista e ilustrativo, formato pdf** 
+**Genera el trifoliar, especial enfasis en (ESD), es complemento de un video tutorial, de MANTENIMIENTO E INFRAESTRUCTURA DE HARDWARE, se directo y claro para que personas no muy adentradas al hardware de las computadoras pueda comprenderlo, en diseño hazlo minimalista e ilustrativo,https://drive.google.com/file/d/1Tad4-FCA7bGCX8dSOx6kJtrJi0rJm-el/view?usp=drive_link agrega el link idincando que en el se encuentra un video tutorial explicando como realizar el mantenimiento, mis datos: Zabdi Jefte Rivas Martínez 202300349 formato pdf** 
 
 
 
@@ -16,4 +16,7 @@ Prácticas Iniciales - Sección C
 **Estudiante:** Zabdi Jefte Rivas Martínez (Carnet: 202300349)
 **Carrera:** Ingeniería en Ciencias y Sistemas, USAC
 
+# Datos Importantes
+
+Utilice Claude y subí el documento con las instrucciones del informe para que la IA tuviera todo el contexto.
 
